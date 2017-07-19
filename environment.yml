@@ -5,4 +5,10 @@ dependencies:
  - scikit-learn
  - jupyter
  - requests
+ - pandas
+ - seaborn
  - click
+ - openpyxl
+ - pip:
+   - watermark
+   - pytest

@@ -1,0 +1,2 @@
+* https://medium.com/towards-data-science/structure-and-automated-workflow-for-a-machine-learning-project-2fa30d661c1e
+* https://medium.com/towards-data-science/structure-and-automated-workflow-for-a-machine-learning-project-part-2-b5b420625102
